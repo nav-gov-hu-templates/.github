@@ -32,5 +32,3 @@ Azzal, hogy hozzájárulok ehhez a projekthez, igazolom, hogy:
     vele együtt benyújtott személyes adatot, beleértve az aláírásomat is)
     határozatlan ideig megmarad, és újraelosztható a
     projekt vagy az érintett nyílt forráskódú licenc(ek) rendelkezéseinek megfelelően.
-
-Translated with DeepL.com (free version)
